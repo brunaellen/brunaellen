@@ -1,6 +1,6 @@
 ### Hi there, I'm Bruna Souza 👋
 
-<p align="center">
+<p align="left">
 <img width="10%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
@@ -23,8 +23,6 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/material/100/000000/css-filetype.png"/>
 	
 </p>
-	
-	https://www.freepik.com/free-icon/html-file-with-code-symbol_742687.htm
 
 <!-- , **SQL**, **HTML**, **CSS**, **JavaScript**, **PHP** 
 **brunaellen/brunaellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
