@@ -4,6 +4,8 @@
 
 - :computer:  I'm **Developer** | **Programmer** | **Learner**
 - 🌱 Currently advacing my knowledge in **Java**
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 	
 ## I am learning:
 * Programming Languages: 
@@ -37,7 +39,7 @@
 
 ##  🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
+<p align="center">
 	<a href="https://github.com/brunaellen"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/brunaellengurgelsouza/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/brunaegs/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
