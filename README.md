@@ -54,5 +54,3 @@
 	<a href="https://www.linkedin.com/in/brunaellengurgelsouza/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/brunaegs/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 
-<!--
--->
