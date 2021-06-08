@@ -9,21 +9,28 @@
 -:computer:  I'm **Developer** | **Programmer** | **Learner**
 - 🌱 Currently advacing my knowledge in **Java**
 
-### Feel Free to Contact me.....
+### Feel free to contact me.....
 
 <p align="center">
 	<a href="https://github.com/brunaellen"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/brunaellengurgelsouza/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/brunaegs/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	
-### Programming Languages that I have been learning....
-
+### I have been learning....
+#### Programming Languages: 
+	
 <p align="center">
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/office/100/000000/html-filetype.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/material/100/000000/css-filetype.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	
+</p>
+
+#### Tools: 
+<p align="center">
+	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
 </p>
 
 <!-- , **SQL**, **HTML**, **CSS**, **JavaScript**, **PHP** 
