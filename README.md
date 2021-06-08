@@ -44,9 +44,6 @@
 	<a href="https://github.com/brunaellen">
 	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brunaellen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunaellen&layout=compact&langs_count=8&theme=algolia"/>
-		
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunaellen&langs_count=5&theme=monokai)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brunaellen&count_private=true&theme=monokai&show_icons=true)]()
 	</a>
 </p>
 
@@ -55,5 +52,6 @@
 <p align="center">
 	<a href="https://github.com/brunaellen"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/brunaellengurgelsouza/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="brunaellen.souza@homail.com"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/nolan/64/email.png"/></a>
 	<a href="https://www.instagram.com/brunaegs/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 
