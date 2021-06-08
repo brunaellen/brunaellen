@@ -33,17 +33,17 @@
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
 </p>
 
-<!-- , **SQL**, **HTML**, **CSS**, **JavaScript**, **PHP** 
-**brunaellen/brunaellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Technologies: 
+<p align="center">
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+</p>
 
-Here are some ideas to get you started:
+* Operating Systems: 
+<p align="center">
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/linux.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/nolan/64/mac-logo.png"/>
+	
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
 -->
