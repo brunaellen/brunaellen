@@ -16,8 +16,8 @@
 	<a href="https://www.linkedin.com/in/brunaellengurgelsouza/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/brunaegs/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	
-### I have been learning....
-#### Programming Languages: 
+## I have been learning:
+* Programming Languages: 
 	
 <p align="center">
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
@@ -27,7 +27,7 @@
 	
 </p>
 
-#### Tools: 
+* Tools: 
 <p align="center">
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
