@@ -16,13 +16,12 @@
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/officel/100/000000/php-logo.png"/>
 	
 </p>
-<div align="right">
-	* Tools: 
-	<p align="left">
-		<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-		<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
-	</p>
-</div>
+
+* Tools: 
+<p align="left">
+	<img width="6%" style="padding:5px;float:right" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+	<img width="6%" style="padding:5px;float:right" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
+</p>
 
 * Technologies: 
 <p align="left">
