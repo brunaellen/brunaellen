@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - :computer:  I'm **Developer** | **Programmer** | **Learner**
+- 🎓 &nbsp;I recently graduated from Letterkenny Institute of Technology (LYIT) with a Higher Diploma in Science in Computing.
 - 🌱 Currently advacing my knowledge in **Java**
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
