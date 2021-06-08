@@ -1,7 +1,7 @@
 ### Hi there, I'm Bruna Souza 👋
 
-<p align="right">
-<img width="10%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+<p align="center">
+<img width="5%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
 
