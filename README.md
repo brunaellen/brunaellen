@@ -7,7 +7,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 	
-## I am learning:
+### I am learning:
 * Programming Languages: 
 	
 <p align="left">
