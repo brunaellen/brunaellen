@@ -1,12 +1,8 @@
 ## Hi there, I'm Bruna Souza 👋
 
+### 👨🏻‍💻 &nbsp;About Me
 
-<p align="center">
-<img width="5%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
-</p>
-
-
--:computer:  I'm **Developer** | **Programmer** | **Learner**
+- :computer:  I'm **Developer** | **Programmer** | **Learner**
 - 🌱 Currently advacing my knowledge in **Java**
 	
 ## I am learning:
