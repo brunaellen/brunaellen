@@ -4,8 +4,8 @@
 
 - 🖥️ &nbsp; I'm **Developer** | **Programmer** | **Learner**
 - 🎓 &nbsp; I recently graduated with a first class honours from Letterkenny Institute of Technology (LYIT) with a Higher Diploma in Science in Computing.
-- 👨🏻‍💻 &nbsp; I am currently enrolled in a course called Java Foundation to enrich my knowledge about Java and to prepare me for the Oracle certification exam (Java Certified Foundations Associate certification).
-- 🌱 Currently advacing my knowledge in **Java**
+- 👨🏻‍💻 &nbsp; I have an Oracle Certification - (Oracle Certified Foundations Associate, Java).
+- 🌱 Currently advacing my knowledge in **Java**, currently learning Spring framework.
 	
 ### I am learning:
 * Programming Languages: 
