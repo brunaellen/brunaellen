@@ -11,7 +11,16 @@
 * Programming Languages: 
 	
 <p align="left">
+  - Advacing my knowledge in:
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/office/100/000000/html-filetype.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/material/100/000000/css-filetype.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/officel/100/000000/php-logo.png"/>
+</p>
+
+<p align="left">
+  - Languages that I have been exposed to:
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/office/100/000000/html-filetype.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/material/100/000000/css-filetype.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
