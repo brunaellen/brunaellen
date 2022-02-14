@@ -26,8 +26,9 @@
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/officexs/50/000000/java-eclipse.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/000000/external-git-is-designed-for-coordinating-work-among-programmers-logo-green-tal-revivo.png"/>
     <img width="7%" style="padding:4px" src="https://www.felypeganzert.com/img/knowledges/maven.png"/>
-<img width="6%" style="padding:4px"src="https://img.icons8.com/color/48/000000/tomcat.png"/>
+    <img width="6%" style="padding:4px"src="https://img.icons8.com/color/48/000000/tomcat.png"/>
     <img width="6%" style="padding:4px" src="https://liveit-media.imgix.net/media/event/my-first-event-1461/logo-spvnih.png"/>
     <img src="https://img.icons8.com/color/50/000000/thymeleaf.png"/>
     <img width="6%" style="padding:4px" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/bootstrap_plain_wordmark_logo_icon_146620.png"/>
