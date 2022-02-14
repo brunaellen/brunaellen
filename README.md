@@ -32,8 +32,8 @@
     <img src="https://img.icons8.com/color/50/000000/thymeleaf.png"/>
     <img width="7%" style="padding:4px" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/bootstrap_plain_wordmark_logo_icon_146620.png"/>
     <img style="padding:4px"src="https://img.icons8.com/color/48/000000/tomcat.png"/>
-    <img width="10%" style="padding:5px" src="https://www.vojtechruzicka.com/static/082e3acd6e69050d80651011afcd3022/426ac/spring-boot-admin.webp"/>
-    <img width="6%" style="padding:4px" src="https://stackjava.com/wp-content/uploads/2018/05/swagger-icon-250x250.png"/>
+    <img width="17%" style="padding:5px" src="https://www.vojtechruzicka.com/static/082e3acd6e69050d80651011afcd3022/426ac/spring-boot-admin.webp"/>
+    <img width="10%" style="padding:4px" src="https://stackjava.com/wp-content/uploads/2018/05/swagger-icon-250x250.png"/>
     
 </p>
 
