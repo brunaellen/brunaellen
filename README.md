@@ -7,9 +7,8 @@
 - 👨🏻‍💻 &nbsp; I have an Oracle Certification - (Oracle Certified Foundations Associate, Java).
 - 🌱 Advancing my knowledge in **Java**, currently learning Spring framework.
 	
-### I am learning:
+### Advacing my knowledge in:
 
-* Advacing my knowledge in:	
 <p align="left">
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 </p>
