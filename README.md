@@ -23,7 +23,7 @@
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/officexs/50/000000/java-eclipse.png"/>
     <img width="9%"  src="https://miro.medium.com/max/910/1*GzQyMkwhYrLgWirfoBQVEQ.png"/>
-    <img width="7%" style="padding:4px" src="https://www.felypeganzert.com/img/knowledges/maven.png"/>
+    <img width="10%" style="padding:4px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg"/>
     <img width="6%" style="padding:4px"src="https://img.icons8.com/color/48/000000/tomcat.png"/>
     <img width="6%" style="padding:4px" src="https://liveit-media.imgix.net/media/event/my-first-event-1461/logo-spvnih.png"/>
     <img src="https://img.icons8.com/color/50/000000/thymeleaf.png"/>
