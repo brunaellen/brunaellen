@@ -5,20 +5,16 @@
 - 🖥️ &nbsp; I'm **Developer** | **Programmer** | **Learner**
 - 🎓 &nbsp; I recently graduated with a first class honours from Letterkenny Institute of Technology (LYIT) with a Higher Diploma in Science in Computing.
 - 👨🏻‍💻 &nbsp; I have an Oracle Certification - (Oracle Certified Foundations Associate, Java).
-- 🌱 Advancing my knowledge in **Java**, currently learning Spring framework.
-	
-### Advacing my knowledge in:
-
-<p align="left">
-	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
-</p>
+- 🌱 Advancing my knowledge in **Java**.
 
 * Languages that I have been exposed to:
 <p align="left">
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/office/100/000000/html-filetype.png"/>
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/material/100/000000/css-filetype.png"/>
+    <img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/officel/100/000000/php-logo.png"/>
+    <img width="6%" style="padding:5px" src="https://img.icons8.com/color/100/000000/python--v1.png"/>
+    <img width="6%" style="padding:5px" src="https://img.icons8.com/office/100/000000/html-filetype.png"/>
+	<img width="6%" style="padding:5px" src="https://img.icons8.com/material/100/000000/css-filetype.png"/>
 </p>
 
 * Tools: 
