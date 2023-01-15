@@ -26,21 +26,9 @@ I'm Bruna Souza 👋</h1>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/48/000000/linux.png" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://img.icons8.com/nolan/64/mac-logo.png" width="48" height="48" alt="macOS" />
       </a>
       <br>macOS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
