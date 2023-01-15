@@ -1,9 +1,12 @@
-## Hi there, I'm Bruna Souza 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <br>
+I'm Bruna Souza 👋</h1>
+
+## 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🖥️ &nbsp; I'm **Developer** | **Programmer** | **Learner**
-- 🎓 &nbsp; I recently graduated with a first class honours from Letterkenny Institute of Technology (LYIT) with a Higher Diploma in Science in Computing.
+- 🎓 &nbsp; I graduated in 2022 with a first class honours from Letterkenny Institute of Technology (LYIT) with a Higher Diploma in Science in Computing.
 - 👨🏻‍💻 &nbsp; I have an Oracle Certification - (Oracle Certified Foundations Associate, Java).
 - 🌱 Advancing my knowledge in **Java**.
 
@@ -17,33 +20,131 @@
 	<img width="6%" style="padding:5px" src="https://img.icons8.com/material/100/000000/css-filetype.png"/>
 </p>
 
-* Tools: 
-<p align="left">
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>	
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/officexs/50/000000/java-eclipse.png"/>
-    <img width="9%"  src="https://miro.medium.com/max/910/1*GzQyMkwhYrLgWirfoBQVEQ.png"/>
-    <img width="10%" style="padding:4px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg"/>
-    <img width="6%" style="padding:4px"src="https://img.icons8.com/color/48/000000/tomcat.png"/>
-    <img width="6%" style="padding:4px" src="https://liveit-media.imgix.net/media/event/my-first-event-1461/logo-spvnih.png"/>
-    <img src="https://img.icons8.com/color/50/000000/thymeleaf.png"/>
-    <img width="6%" style="padding:4px" src="https://cdn.icon-icons.com/icons2/2415/PNG/64/bootstrap_plain_wordmark_logo_icon_146620.png"/>
-    <img width="17%" src="https://www.vojtechruzicka.com/static/082e3acd6e69050d80651011afcd3022/426ac/spring-boot-admin.webp"/>
-    <img width="9%" src="https://stackjava.com/wp-content/uploads/2018/05/swagger-icon-250x250.png"/>
-    
-</p>
+* Technologies, tools and other things that I have been exposed to:
 
-* Technologies: 
-<p align="left">
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/docker.png"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/48/000000/linux.png" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/nolan/64/mac-logo.png" width="48" height="48" alt="macOS" />
+      </a>
+      <br>macOS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48" alt="IntelliJ" />
+      </a>
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>Visual Studio Code
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://miro.medium.com/max/910/1*GzQyMkwhYrLgWirfoBQVEQ.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/48/000000/tomcat.png" width="48" height="48" alt="Tomcat" />
+      </a>
+      <br>Tomcat
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" width="48" height="48" alt="Maven" />
+      </a>
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://liveit-media.imgix.net/media/event/my-first-event-1461/logo-spvnih.png" width="48" height="48" alt="Spring" />
+      </a>
+      <br>Spring
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://stackjava.com/wp-content/uploads/2018/05/swagger-icon-250x250.png" width="48" height="48" alt="Swagger" />
+      </a>
+      <br>Swagger
+    </td>
+ </tr>
 
-* Operating Systems: 
-<p align="left">
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/color/48/000000/linux.png"/>
-	<img width="6%" style="padding:5px" src="https://img.icons8.com/nolan/64/mac-logo.png"/>
-	
-</p>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" width="52" height="48" alt="Serenity" />
+      </a>
+      <br>Serenity
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://pact.io/assets/img/logo-black.png" width="48" height="48" alt="Pact" />
+      </a>
+      <br>Pact
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/1_7F-rMchWXbujnBT7QUN4zA.jpeg" width="48" height="48" alt="Pulsar" />
+      </a>
+      <br>Pulsar
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/50/000000/thymeleaf.png" width="48" height="48" alt="Thymeleaf" />
+      </a>
+      <br>Thymeleaf
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/64/bootstrap_plain_wordmark_logo_icon_146620.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/512/postgreesql.png" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
+
 
 ##  🤝🏻 &nbsp;Connect with Me
 
