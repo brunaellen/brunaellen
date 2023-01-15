@@ -83,19 +83,19 @@ I'm Bruna Souza 👋</h1>
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" width="52" height="48" alt="Serenity" />
+        <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" width="62" height="48" alt="Serenity" />
       </a>
       <br>Serenity
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://pact.io/assets/img/logo-black.png" width="48" height="48" alt="Pact" />
+        <img src="https://pact.io/assets/img/logo-black.png" width="48" height="58" alt="Pact" />
       </a>
       <br>Pact
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/1_7F-rMchWXbujnBT7QUN4zA.jpeg" width="48" height="48" alt="Pulsar" />
+        <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2021/07/1_7F-rMchWXbujnBT7QUN4zA.jpeg" width="48" height="62" alt="Pulsar" />
       </a>
       <br>Pulsar
     </td>
