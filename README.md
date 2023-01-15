@@ -72,6 +72,12 @@ I'm Bruna Souza 👋</h1>
       </a>
       <br>Swagger
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://img.icons8.com/color/50/000000/thymeleaf.png" width="48" height="48" alt="Thymeleaf" />
+      </a>
+      <br>Thymeleaf
+    </td>
  </tr>
 
   <tr>
@@ -98,12 +104,6 @@ I'm Bruna Souza 👋</h1>
         <img src="https://img.icons8.com/color/48/000000/docker.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/50/000000/thymeleaf.png" width="48" height="48" alt="Thymeleaf" />
-      </a>
-      <br>Thymeleaf
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
